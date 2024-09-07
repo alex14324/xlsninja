@@ -86,7 +86,7 @@ try:
             print(border_color + "│" + option_color + option.ljust(59) + border_color + "│")
         
         print(border_color + "└" + "─" * 61 + "┘")
-        authors = "Created by: AnonKryptiQuz, CoffinXP, HexSh1dow, and Naho"
+        authors = "Created by: Pentesterclub, @Pentesterclubpvtltd, @alex14324"
         instructions = "Select an option by entering the corresponding number:"
         
         print(Fore.WHITE + Style.BRIGHT + "─" * 63)
