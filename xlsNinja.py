@@ -1,4 +1,4 @@
-# This program was created by: AnonKryptiQuz, Coffinxp Hexsh1dow and Naho
+# This program was created by: Pentesterclub, @Pentesterclubpvtltd @alex14324 
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from curses import panel
